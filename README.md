@@ -7,9 +7,9 @@ The core function of the code is to generate scatter plots that display the rela
 # Steps Involved in Linear Regression
 
 ## Using Matrix Version:
-1)Construct Design matrix 'X' and co-efficient matrix'B' => using normal equation provides a way to find the best-fitting line that
+1) Construct Design matrix 'X' and co-efficient matrix'B' => using normal equation provides a way to find the best-fitting line that
 minimizes the sum of squared residuals in a linear regression problem.
-2)Predicted y values (predicted_y) are obtained using the calculated coefficients.
+2) Predicted y values (predicted_y) are obtained using the calculated coefficients.
 
 How good is this predictions?
 1) Sum of Squares Residual (SSR) and Total Sum of Squares (SSt) are computed to assess the model's performance.
