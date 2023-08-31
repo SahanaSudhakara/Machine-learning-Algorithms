@@ -18,7 +18,7 @@ How good is this predictions?
 ## Using LinearRegression Class:
 
 1) The LinearRegression class from scikit-learn is imported to create a linear regression model.
-2)In the Linear Regression Class, the model automatically fits the best-fitting line to the data using mathematical techniques,
+2) In the Linear Regression Class, the model automatically fits the best-fitting line to the data using mathematical techniques,
  allowing you to visualize the learned relationship between variables.
 
 ## Usage
